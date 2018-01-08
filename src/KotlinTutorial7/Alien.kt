@@ -1,10 +1,6 @@
-package KotlinTutorial4
+package KotlinTutorial7
 
 class Alien {
 
     var name: String? = null
-
-
-
-
 }

@@ -4,10 +4,8 @@ fun main(args: Array<String>) {
 
     var str : String?= null
 
-    var tittu : Alien? = Alien()
+    var tittu = Alien()
 
-    tittu = null
-
-    println(tittu?.name)
+    println(tittu.name?.length)
 
 }
